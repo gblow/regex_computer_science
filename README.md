@@ -61,6 +61,8 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 By completing this challenge, you will not only have a better understanding of the email validation regex but also gain experience in setting up and sharing a GitHub Gist.
 
+Gist Link: <script src="https://gist.github.com/gblow/dd41adbb1b606f4e456d07cc72ac6b1b.js"></script>
+
 ## Built With:
 - Saiyan Pride
 - GitHub Gist: [How to Create a Gist?](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
